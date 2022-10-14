@@ -30,7 +30,7 @@ marketing_data contains ad impression and click data by date and location:
 - Question #4 In your opinion, what is the most efficient store and why?​
 - Question #5 (Challenge) Generate a query to rank in order the top 10 revenue producing states​
 
-**1. Create two tables base on store_revenue.csv and marketing_date.csv:**
+**1. Create two tables based on store_revenue.csv and marketing_date.csv:**
 - Created tables store_revenue and marketing_data with corresponding columns in MySQL
 - Imported data into each table
 
